@@ -1,4 +1,4 @@
-# decisoe-movimento-drone
+# decisao-e-movimento-drone
 Código do desafio de decisão e movimento para um drone.
 Algumas observações desse código é que ele não foi testado e consiste mais numa idéia e estratégia que tive para realizar o desafio dentro das minhas limitações.
 
